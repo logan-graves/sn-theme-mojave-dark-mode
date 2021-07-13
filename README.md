@@ -1,4 +1,4 @@
-**Last Updated: 2018-12-06 18:38 @matthew-cox**
+**Forked so that I can create my own JSON endpoint as the original repo doesn't appear to have a proper one. *or I maybe don't know how extensions work in SN.***
 
 Table of Contents
 =================
