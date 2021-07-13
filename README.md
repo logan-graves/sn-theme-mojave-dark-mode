@@ -1,4 +1,4 @@
-**Forked so that I can create my own JSON endpoint as the original repo doesn't appear to have a proper one. *or I maybe don't know how extensions work in SN.***
+**Forked so that I can create my own JSON endpoint as the original repo doesn't appear to have a proper one.**
 
 Table of Contents
 =================
