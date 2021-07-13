@@ -13,7 +13,11 @@ For Standard Notes (https://standardnotes.org/) color theme which roughly matche
 
 Tested on macOS 10.14
 
-Installation instructions: https://docs.standardnotes.org/extensions/publishing.html
+**Installation instructions:** Go to `Extensions > Import extension` and paste whatever's in the "latest-url" field; at the moment it's https://listed.to/p/KXknJEbW6j. Hit enter/return (whatever your OS calls it) and review the info before clicking `Install`.
+
+*This theme currently registers as a Component (rather than a theme) -- possibly because it was written 3 years ago.*
+
+https://docs.standardnotes.org/extensions/publishing
 
 **sn-mojave-dark-mode.json**
 
@@ -28,13 +32,14 @@ metatype: json
   "content_type": "SN|Component",
   "area": "themes",
   "description": "Mojave Dark Mode theme",
-  "version": "v0.0.2",
+  "version": "v0.0.3",
   "url": "https://raw.githubusercontent.com/matthew-cox/sn-theme-mojave-dark-mode/master/dist/mojave-dark-mode.css",
-  "download_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode/archive/v0.0.2.zip",
-  "latest_url": "https://listed.standardnotes.org/your-published-url",
+  "download_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode/archive/v0.0.3.zip",
+  "latest_url": "https://listed.to/p/KXknJEbW6j",
   "marketing_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode",
   "thumbnail_url": "https://github.com/matthew-cox/sn-theme-mojave-dark-mode/raw/master/preview.png"
 }
+
 
 ```
 
