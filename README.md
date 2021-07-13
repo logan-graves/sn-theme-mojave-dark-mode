@@ -15,7 +15,7 @@ Tested on macOS 10.14
 
 **Installation instructions:** Go to `Extensions > Import extension` and paste whatever's in the "latest-url" field; at the moment it's https://listed.to/p/KXknJEbW6j. Hit enter/return (whatever your OS calls it) and review the info before clicking `Install`.
 
-*This theme currently registers as a Component (rather than a theme) -- possibly because it was written 3 years ago.*
+*This theme currently registers as a Component (rather than a theme); it has something to do with how the extension is written (Some css breaks when I tried switching it to `"content_type": "SN|Theme"`), and I don't care enough to find out why.*
 
 https://docs.standardnotes.org/extensions/publishing
 
