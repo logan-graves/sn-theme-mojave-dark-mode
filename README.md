@@ -1,4 +1,5 @@
 **Forked so that I can create my own JSON endpoint as the original repo doesn't appear to have a proper one.**
+**Something doesn't work right. Oh well.**
 
 Table of Contents
 =================
